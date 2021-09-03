@@ -12,7 +12,7 @@
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
     "history": "^4.10.1",
-    "immer": "^6.0.3",
+    "immer": "^9.0.6",
     "polished": "^3.5.2",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
